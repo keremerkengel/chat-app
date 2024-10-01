@@ -1,0 +1,16 @@
+
+{
+  "name": "realtime-chat-client",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@apollo/client": "^3.3.0",
+    "graphql": "^15.5.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "subscriptions-transport-ws": "^0.9.19"
+  },
+  "scripts": {
+    "start": "react-scripts start"
+  }
+}
